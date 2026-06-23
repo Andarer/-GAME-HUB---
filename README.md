@@ -128,7 +128,7 @@ GPL-3.0
 
 👤 Автор
 
-Andárer (Артур Гиренко)
+***©Andárer*** 
 
 MetaSymbiote Project
 
